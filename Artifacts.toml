@@ -6,7 +6,7 @@ os = "linux"
 
     [[Xorg_xtrans.download]]
     sha256 = "fe52efbe8c2fb913c3266607ee17f5599f3a28171e77a20383fb5812cb5e7fa7"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xtrans_jll.jl/releases/download/Xorg_xtrans-v1.5.0+1/Xorg_xtrans.v1.5.0.aarch64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xtrans_jll.jl/releases/download/Xorg_xtrans-v1.5.0+2/Xorg_xtrans.v1.5.0.aarch64-linux-gnu.tar.gz"
 [[Xorg_xtrans]]
 arch = "aarch64"
 git-tree-sha1 = "125bcd31bfc546c194fe6782d2b7d2a05dbb9f56"
@@ -15,7 +15,7 @@ os = "linux"
 
     [[Xorg_xtrans.download]]
     sha256 = "fe52efbe8c2fb913c3266607ee17f5599f3a28171e77a20383fb5812cb5e7fa7"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xtrans_jll.jl/releases/download/Xorg_xtrans-v1.5.0+1/Xorg_xtrans.v1.5.0.aarch64-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xtrans_jll.jl/releases/download/Xorg_xtrans-v1.5.0+2/Xorg_xtrans.v1.5.0.aarch64-linux-musl.tar.gz"
 [[Xorg_xtrans]]
 arch = "aarch64"
 git-tree-sha1 = "125bcd31bfc546c194fe6782d2b7d2a05dbb9f56"
@@ -23,7 +23,7 @@ os = "freebsd"
 
     [[Xorg_xtrans.download]]
     sha256 = "fe52efbe8c2fb913c3266607ee17f5599f3a28171e77a20383fb5812cb5e7fa7"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xtrans_jll.jl/releases/download/Xorg_xtrans-v1.5.0+1/Xorg_xtrans.v1.5.0.aarch64-unknown-freebsd.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xtrans_jll.jl/releases/download/Xorg_xtrans-v1.5.0+2/Xorg_xtrans.v1.5.0.aarch64-unknown-freebsd.tar.gz"
 [[Xorg_xtrans]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -33,7 +33,7 @@ os = "linux"
 
     [[Xorg_xtrans.download]]
     sha256 = "fe52efbe8c2fb913c3266607ee17f5599f3a28171e77a20383fb5812cb5e7fa7"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xtrans_jll.jl/releases/download/Xorg_xtrans-v1.5.0+1/Xorg_xtrans.v1.5.0.armv6l-linux-gnueabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xtrans_jll.jl/releases/download/Xorg_xtrans-v1.5.0+2/Xorg_xtrans.v1.5.0.armv6l-linux-gnueabihf.tar.gz"
 [[Xorg_xtrans]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -43,7 +43,7 @@ os = "linux"
 
     [[Xorg_xtrans.download]]
     sha256 = "fe52efbe8c2fb913c3266607ee17f5599f3a28171e77a20383fb5812cb5e7fa7"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xtrans_jll.jl/releases/download/Xorg_xtrans-v1.5.0+1/Xorg_xtrans.v1.5.0.armv6l-linux-musleabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xtrans_jll.jl/releases/download/Xorg_xtrans-v1.5.0+2/Xorg_xtrans.v1.5.0.armv6l-linux-musleabihf.tar.gz"
 [[Xorg_xtrans]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -53,7 +53,7 @@ os = "linux"
 
     [[Xorg_xtrans.download]]
     sha256 = "fe52efbe8c2fb913c3266607ee17f5599f3a28171e77a20383fb5812cb5e7fa7"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xtrans_jll.jl/releases/download/Xorg_xtrans-v1.5.0+1/Xorg_xtrans.v1.5.0.armv7l-linux-gnueabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xtrans_jll.jl/releases/download/Xorg_xtrans-v1.5.0+2/Xorg_xtrans.v1.5.0.armv7l-linux-gnueabihf.tar.gz"
 [[Xorg_xtrans]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -63,7 +63,7 @@ os = "linux"
 
     [[Xorg_xtrans.download]]
     sha256 = "fe52efbe8c2fb913c3266607ee17f5599f3a28171e77a20383fb5812cb5e7fa7"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xtrans_jll.jl/releases/download/Xorg_xtrans-v1.5.0+1/Xorg_xtrans.v1.5.0.armv7l-linux-musleabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xtrans_jll.jl/releases/download/Xorg_xtrans-v1.5.0+2/Xorg_xtrans.v1.5.0.armv7l-linux-musleabihf.tar.gz"
 [[Xorg_xtrans]]
 arch = "i686"
 git-tree-sha1 = "125bcd31bfc546c194fe6782d2b7d2a05dbb9f56"
@@ -72,7 +72,7 @@ os = "linux"
 
     [[Xorg_xtrans.download]]
     sha256 = "fe52efbe8c2fb913c3266607ee17f5599f3a28171e77a20383fb5812cb5e7fa7"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xtrans_jll.jl/releases/download/Xorg_xtrans-v1.5.0+1/Xorg_xtrans.v1.5.0.i686-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xtrans_jll.jl/releases/download/Xorg_xtrans-v1.5.0+2/Xorg_xtrans.v1.5.0.i686-linux-gnu.tar.gz"
 [[Xorg_xtrans]]
 arch = "i686"
 git-tree-sha1 = "125bcd31bfc546c194fe6782d2b7d2a05dbb9f56"
@@ -81,7 +81,7 @@ os = "linux"
 
     [[Xorg_xtrans.download]]
     sha256 = "fe52efbe8c2fb913c3266607ee17f5599f3a28171e77a20383fb5812cb5e7fa7"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xtrans_jll.jl/releases/download/Xorg_xtrans-v1.5.0+1/Xorg_xtrans.v1.5.0.i686-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xtrans_jll.jl/releases/download/Xorg_xtrans-v1.5.0+2/Xorg_xtrans.v1.5.0.i686-linux-musl.tar.gz"
 [[Xorg_xtrans]]
 arch = "powerpc64le"
 git-tree-sha1 = "125bcd31bfc546c194fe6782d2b7d2a05dbb9f56"
@@ -90,7 +90,16 @@ os = "linux"
 
     [[Xorg_xtrans.download]]
     sha256 = "fe52efbe8c2fb913c3266607ee17f5599f3a28171e77a20383fb5812cb5e7fa7"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xtrans_jll.jl/releases/download/Xorg_xtrans-v1.5.0+1/Xorg_xtrans.v1.5.0.powerpc64le-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xtrans_jll.jl/releases/download/Xorg_xtrans-v1.5.0+2/Xorg_xtrans.v1.5.0.powerpc64le-linux-gnu.tar.gz"
+[[Xorg_xtrans]]
+arch = "riscv64"
+git-tree-sha1 = "125bcd31bfc546c194fe6782d2b7d2a05dbb9f56"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_xtrans.download]]
+    sha256 = "fe52efbe8c2fb913c3266607ee17f5599f3a28171e77a20383fb5812cb5e7fa7"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xtrans_jll.jl/releases/download/Xorg_xtrans-v1.5.0+2/Xorg_xtrans.v1.5.0.riscv64-linux-gnu.tar.gz"
 [[Xorg_xtrans]]
 arch = "x86_64"
 git-tree-sha1 = "125bcd31bfc546c194fe6782d2b7d2a05dbb9f56"
@@ -99,7 +108,7 @@ os = "linux"
 
     [[Xorg_xtrans.download]]
     sha256 = "fe52efbe8c2fb913c3266607ee17f5599f3a28171e77a20383fb5812cb5e7fa7"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xtrans_jll.jl/releases/download/Xorg_xtrans-v1.5.0+1/Xorg_xtrans.v1.5.0.x86_64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xtrans_jll.jl/releases/download/Xorg_xtrans-v1.5.0+2/Xorg_xtrans.v1.5.0.x86_64-linux-gnu.tar.gz"
 [[Xorg_xtrans]]
 arch = "x86_64"
 git-tree-sha1 = "125bcd31bfc546c194fe6782d2b7d2a05dbb9f56"
@@ -108,7 +117,7 @@ os = "linux"
 
     [[Xorg_xtrans.download]]
     sha256 = "fe52efbe8c2fb913c3266607ee17f5599f3a28171e77a20383fb5812cb5e7fa7"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xtrans_jll.jl/releases/download/Xorg_xtrans-v1.5.0+1/Xorg_xtrans.v1.5.0.x86_64-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xtrans_jll.jl/releases/download/Xorg_xtrans-v1.5.0+2/Xorg_xtrans.v1.5.0.x86_64-linux-musl.tar.gz"
 [[Xorg_xtrans]]
 arch = "x86_64"
 git-tree-sha1 = "125bcd31bfc546c194fe6782d2b7d2a05dbb9f56"
@@ -116,4 +125,4 @@ os = "freebsd"
 
     [[Xorg_xtrans.download]]
     sha256 = "fe52efbe8c2fb913c3266607ee17f5599f3a28171e77a20383fb5812cb5e7fa7"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xtrans_jll.jl/releases/download/Xorg_xtrans-v1.5.0+1/Xorg_xtrans.v1.5.0.x86_64-unknown-freebsd.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xtrans_jll.jl/releases/download/Xorg_xtrans-v1.5.0+2/Xorg_xtrans.v1.5.0.x86_64-unknown-freebsd.tar.gz"
